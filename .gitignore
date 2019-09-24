@@ -1,0 +1,11 @@
+*.o
+*.c
+*.ld
+*.map
+*.due
+*.link
+*.native
+*.exe
+*.bin
+*.elf
+_*/
